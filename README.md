@@ -1,6 +1,7 @@
 <!-- Profile banner -->
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="banner" width="100%" />
 
+
 <h1 align="center">Hi there, I'm <span style="color:#ff6600">Gettch</span> 👋</h1>
 <h3 align="center">Frontend Learner | Backend Explorer | Future Full Stack Dev 🚀</h3>
 
